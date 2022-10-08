@@ -1,8 +1,10 @@
 # bikesharing
 
 ## Overview
+The purpose of this analysis is to determine if a rental bike business would translate to other cities.
 
 ## Results
+link to results in Tableau
 [Tableau dashboard](https://public.tableau.com/app/profile/kurt.otto/viz/Bikechallenge_16629401582350/BikeChallengestory?publish=yes)
 
 ## Summary
